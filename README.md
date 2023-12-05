@@ -26,8 +26,8 @@ The work process was well documented using appropriate comments for easy underst
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Appreciation
 
-Thanks for taking the time to go through this [Readme.md](Readme.md) file. Pls feel free to browse through other repositories on this GitHub account for other projects on SQL, Excel, Power BI, Tableau, Python, R, and Machine Learning.
+Thanks for taking the time to go through this Readme.md file. Pls feel free to browse through other repositories on this GitHub account for other projects on SQL, Excel, Power BI, Tableau, Python, R, and Machine Learning.
