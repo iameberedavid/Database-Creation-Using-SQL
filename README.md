@@ -1,4 +1,6 @@
 # DATABASE CREATION USING SQL
+
+## Technologies
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-green)
 ![Database Creation](https://img.shields.io/badge/Database-Creation-green)
 ![SQL](https://img.shields.io/badge/SQL-green)
