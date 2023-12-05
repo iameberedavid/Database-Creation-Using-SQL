@@ -33,11 +33,11 @@ Here are his details:
 
 | Detail | Link |
 | ------ | ---- |
+| Email | eberedavid326@gmail.com |
 | LinkedIn | [chidieberedavidogbonna](https://www.linkedin.com/in/chidieberedavidogbonna/) |
 | GitHub | [iameberedavid](https://github.com/iameberedavid) |
 | Medium | [eberedavid](https://eberedavid.medium.com) |
 | Twitter | [iameberedavid](https://twitter.com/iameberedavid) |
-| Email | eberedavid326@gmail.com |
 
 ## License
 
