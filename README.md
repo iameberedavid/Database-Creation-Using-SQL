@@ -1,12 +1,17 @@
 # DATABASE CREATION USING SQL
 
 ## Technologies
+
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-green)
 ![Database Creation](https://img.shields.io/badge/Database-Creation-green)
 ![SQL](https://img.shields.io/badge/SQL-green)
 
+## Data Source
+
+The image named 'Data' in this repository contains the data. It was saved as a PDF from [GiraffeAcademy](https://www.giraffeacademy.com/databases/sql/company-database.pdf) and then converted to an image for easy usage.
+
 ## Project Description
-In this project, I built a full database from start to finish using MySQL Relational Database Management System. Using the values in the image named 'Data' in this repository, I created the database tables with their columns, and mapped the primary and foreign keys for each table. There are columns that are both primary and foreign keys, these columns were mapped appropriately. I then inserted row values into each table.
+In this project, I built a full database from start to finish using MySQL Relational Database Management System. I created the database tables with their columns, and mapped the primary and foreign keys for each table. There are columns that are both primary and foreign keys, these columns were mapped appropriately. I then inserted row values into each table as shown in the data source.
 
 The work process was well documented using appropriate comments for easy understanding. You can take a look at the SQL file named 'Comp Database' on this repository to see the work done. The database created is adequate for further SQL analysis, and can also serve as a model for creating other databases.
 
