@@ -18,6 +18,8 @@ Here are some of the SQL codes used in this project.
 
 ![Preview2](Images/Preview2.png)
 
+![Preview2](Images/Preview3.png)
+
 ## Author
 
 ![Author](Images/Author.jpg)
