@@ -18,15 +18,19 @@ Here are some of the SQL codes used in this project.
 
 ![Preview2](Images/Preview2.png)
 
-![Preview3](Images/Preview3.png)
-
 ## Author
 
 ![Author](Images/Author.jpg)
 
-| Name | Profile | Portfolio | Articles | Tweets  | Contact |
-| ---- | ------- | --------- | -------- | ------  | ------- |
-| Chidiebere David Ogbonna | [LinkedIn](https://www.linkedin.com/in/chidieberedavidogbonna/) | [GitHub](https://github.com/iameberedavid) | [Medium](https://eberedavid.medium.com) | [Twitter](https://twitter.com/iameberedavid) | eberedavid326@gmail.com |
+**Chidiebere David Ogbonna**
+
+| Detail | Link |
+| ------ | ---- |
+| Profile | [LinkedIn](https://www.linkedin.com/in/chidieberedavidogbonna/) |
+| Portfolio | [GitHub](https://github.com/iameberedavid) |
+| Articles | [Medium](https://eberedavid.medium.com) |
+| Tweets | [Twitter](https://twitter.com/iameberedavid) |
+| Email | eberedavid326@gmail.com |
 
 ## License
 
