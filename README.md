@@ -12,9 +12,9 @@ The work process was well documented using appropriate comments for easy underst
 
 ## Preview
 
-![Preview1](Images/Preview 1.png)
+![Preview1](Images/Preview1.png)
 
-![Preview2](Images/Preview 2.png)
+![Preview2](Images/Preview2.png)
 
 ## Author
 
