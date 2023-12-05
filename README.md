@@ -20,7 +20,8 @@ Here are some of the SQL codes used in this project.
 
 ## Author
 
-This project was built by **Chidiebere David Ogbonna**. Here are his details:
+This project was built by **Chidiebere David Ogbonna**.
+Here are his details:
 
 ![Author](Images/Author.jpg)
 
