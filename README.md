@@ -12,12 +12,12 @@ The work process was well documented using appropriate comments for easy underst
 
 ## Preview
 
-![Preview1](C:\Users\USER\Desktop\Ebere\Data Analytics\Projects\My Projects\Database-Creation-Using-SQL\Images\Preview1)
+![Preview1](Images/Preview 1)
 
-![Preview2]()
+![Preview2](Images/Preview 2)
 
 ## Author
-![Pic](C:\Users\USER\Desktop\Ebere\Data Analytics\Projects\My Projects\Database-Creation-Using-SQL\Images\Author)
+![Pic](Images/Author)
 
 | Name | Profile | Portfolio | Articles | Tweets  | Contact |
 | ---- | ------- | --------- | -------- | ------  | ------- |
