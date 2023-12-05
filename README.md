@@ -12,5 +12,10 @@ The work process was well documented using appropriate comments for easy underst
 
 ## Author
 ![Pic]()
-| Name | Profile | Portfolio | Articles | Contact |
 
+| Name | Profile | Portfolio | Articles | Tweets  | Contact |
+| Chidiebere David Ogbonna | [LinkedIn](https://www.linkedin.com/in/chidieberedavidogbonna/) | [GitHub](https://github.com/iameberedavid) | [Medium](https://eberedavid.medium.com) | eberedavid326@gmail.com |
+
+## Appreciation
+
+Thanks for taking the time to go through this Readme.md file. Pls feel free to browse through other repositories on this GitHub account for other projects on SQL, Excel, Power BI, Python and Machine Learning.
