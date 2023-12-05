@@ -1,5 +1,5 @@
 # DATABASE CREATION USING SQL
-![Data Analysis](https://img.shields.io/badges/Data-Analysis-Blue)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-Blue)
 
 In this project, I built a full database from start to finish using MySQL Relational Database Management System. I created the database tables with their columns, mapped the primary and foreign keys for each table (there are columns that are both primary and foreign keys), then inserted row values to each table.
 
