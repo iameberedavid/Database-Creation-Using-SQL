@@ -14,6 +14,7 @@ The work process was well documented using appropriate comments for easy underst
 ![Pic]()
 
 | Name | Profile | Portfolio | Articles | Tweets  | Contact |
+| ---- | ------- | --------- | -------- | ------  | ------- |
 | Chidiebere David Ogbonna | [LinkedIn](https://www.linkedin.com/in/chidieberedavidogbonna/) | [GitHub](https://github.com/iameberedavid) | [Medium](https://eberedavid.medium.com) | eberedavid326@gmail.com |
 
 ## Appreciation
