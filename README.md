@@ -12,13 +12,13 @@ The work process was well documented using appropriate comments for easy underst
 
 ## Preview
 
-![Preview1](Images/Preview 1)
+![Preview1](Images/Preview 1.png)
 
-![Preview2](Images/Preview 2)
+![Preview2](Images/Preview 2.png)
 
 ## Author
 
-![Author](Images/Author)
+![Author](Images/Author.png)
 
 | Name | Profile | Portfolio | Articles | Tweets  | Contact |
 | ---- | ------- | --------- | -------- | ------  | ------- |
