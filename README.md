@@ -18,7 +18,7 @@ The work process was well documented using appropriate comments for easy underst
 
 ## Author
 
-![Author](Images/Author.png)
+![Author](Images/Author.jpg)
 
 | Name | Profile | Portfolio | Articles | Tweets  | Contact |
 | ---- | ------- | --------- | -------- | ------  | ------- |
