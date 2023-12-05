@@ -36,8 +36,12 @@ Here are his details:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Appreciation
 
-Thanks for taking the time to go through this Readme.md file. Please feel free to browse through other repositories on this GitHub account for other projects on SQL, Excel, Power BI, Tableau, Python, R, and Machine Learning.
+Thanks for taking the time to go through this Readme.md file and reviewing this project. Please feel free to browse through other repositories on this GitHub account for other projects on SQL, Excel, Power BI, Tableau, Python, R, and Machine Learning.
+
+## Contact
+
+Feel free to send your reviews, suggestions, questions and collaboration requests to eberedavid326@gmail.com
