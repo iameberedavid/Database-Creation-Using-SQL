@@ -8,7 +8,7 @@
 
 ## Data Source
 
-The image named 'Data' in this repository contains the data. It was saved as a PDF from [GiraffeAcademy](https://www.giraffeacademy.com/databases/sql/company-database.pdf) and then converted to an image for easy usage.
+The image named 'Data' in this repository contains the project data. It was saved as a PDF from [GiraffeAcademy](https://www.giraffeacademy.com/databases/sql/company-database.pdf) and then converted to an image for easy usage.
 
 ## Project Description
 In this project, I built a full database from start to finish using MySQL Relational Database Management System. I created the database tables with their columns, and mapped the primary and foreign keys for each table. There are columns that are both primary and foreign keys, these columns were mapped appropriately. I then inserted row values into each table as shown in the data source.
@@ -33,11 +33,15 @@ Here are his details:
 
 | Detail | Link |
 | ------ | ---- |
+| Email | eberedavid326@gmail.com |
 | LinkedIn | [chidieberedavidogbonna](https://www.linkedin.com/in/chidieberedavidogbonna/) |
 | GitHub | [iameberedavid](https://github.com/iameberedavid) |
 | Medium | [eberedavid](https://eberedavid.medium.com) |
 | Twitter | [iameberedavid](https://twitter.com/iameberedavid) |
-| Email | eberedavid326@gmail.com |
+
+## Article Publication
+
+I went further to explain the work process of this project in an article published on Medium. Click on this link to find the article: [Database Creation Using SQL](https://eberedavid.medium.com/database-creation-using-sql-4f61a3873bb3)
 
 ## License
 
