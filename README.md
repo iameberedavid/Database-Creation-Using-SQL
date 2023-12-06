@@ -39,6 +39,10 @@ Here are his details:
 | Medium | [eberedavid](https://eberedavid.medium.com) |
 | Twitter | [iameberedavid](https://twitter.com/iameberedavid) |
 
+## Article Publication
+
+I went further to explain the work process of this project in an article published on Medium. Click on this link to find the article: [Database Creation Using SQL](https://eberedavid.medium.com/database-creation-using-sql-4f61a3873bb3)
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
