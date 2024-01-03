@@ -8,7 +8,7 @@
 
 ## Data Source
 
-The image named 'Data' in this repository contains the project data. It was saved as a PDF from [GiraffeAcademy](https://www.giraffeacademy.com/databases/sql/company-database.pdf) and then converted to an image for easy usage.
+The image file named 'Data' in this repository contains the project data. It was saved as a PDF from [GiraffeAcademy](https://www.giraffeacademy.com/databases/sql/company-database.pdf) and then converted to an image for easy usage.
 
 ## Project Description
 In this project, I created a database schema from start to finish using MySQL Relational Database Management System. I created the database tables with their columns, and mapped the primary and foreign keys for each table. There are columns that are both primary and foreign keys, these columns were mapped appropriately. I then inserted row values into each table as shown in the data source.
